@@ -227,6 +227,3 @@ Possible future enhancements:
 ** Hritik Chaudhary**
 
 
-- view creation script
-
----
