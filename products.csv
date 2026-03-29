@@ -1,0 +1,121 @@
+product_id,product_name,category,subcategory,unit_price,cost_price
+1,Nova Laptop,Electronics,Laptop,4736.9,3554.88
+2,Orbit Laptop,Electronics,Laptop,3868.83,2606.5
+3,Nexa Laptop,Electronics,Laptop,4244.21,2628.99
+4,Pulse Laptop,Electronics,Laptop,3594.41,1986.78
+5,Nexa Phone,Electronics,Phone,3261.1,2707.27
+6,Prime Phone,Electronics,Phone,4581.21,3425.76
+7,Nova Phone,Electronics,Phone,275.51,195.52
+8,Orbit Phone,Electronics,Phone,2174.42,1206.84
+9,Orbit Headphones,Electronics,Headphones,2610.64,1982.41
+10,Nexa Headphones,Electronics,Headphones,2266.75,1885.74
+11,Prime Headphones,Electronics,Headphones,1060.48,875.34
+12,Nova Headphones,Electronics,Headphones,2717.05,1690.79
+13,Orbit Smartwatch,Electronics,Smartwatch,4015.69,2303.82
+14,Vertex Smartwatch,Electronics,Smartwatch,4804.63,3304.14
+15,Prime Smartwatch,Electronics,Smartwatch,1367.4,1038.09
+16,Pulse Smartwatch,Electronics,Smartwatch,1639.88,1309.31
+17,Zen Tablet,Electronics,Tablet,648.8,430.66
+18,Pulse Tablet,Electronics,Tablet,2852.97,1617.16
+19,Vertex Tablet,Electronics,Tablet,245.36,147.56
+20,Nova Tablet,Electronics,Tablet,2599.32,1767.99
+21,Pulse Mixer,Home,Mixer,4611.93,2854.46
+22,Orbit Mixer,Home,Mixer,4526.11,3429.37
+23,Nova Mixer,Home,Mixer,2920.56,1843.83
+24,Vertex Mixer,Home,Mixer,4635.96,3501.67
+25,Orbit Vacuum,Home,Vacuum,1060.9,854.16
+26,Nexa Vacuum,Home,Vacuum,275.16,168.44
+27,Vertex Vacuum,Home,Vacuum,892.12,710.31
+28,Nova Vacuum,Home,Vacuum,4140.33,3430.94
+29,Orbit Cookware,Home,Cookware,2920.14,2350.22
+30,Zen Cookware,Home,Cookware,3449.77,2456.82
+31,Nexa Cookware,Home,Cookware,2042.46,1576.62
+32,Vertex Cookware,Home,Cookware,3994.39,3022.93
+33,Zen Lamp,Home,Lamp,457.74,311.78
+34,Orbit Lamp,Home,Lamp,4225.64,2755.87
+35,Pulse Lamp,Home,Lamp,3891.23,3254.85
+36,Prime Lamp,Home,Lamp,2104.17,1645.6
+37,Nova Chair,Home,Chair,2554.9,1677.91
+38,Pulse Chair,Home,Chair,4717.49,3205.79
+39,Prime Chair,Home,Chair,3462.54,2590.68
+40,Aura Chair,Home,Chair,611.33,449.69
+41,Aura T-Shirt,Fashion,T-Shirt,1486.27,986.88
+42,Pulse T-Shirt,Fashion,T-Shirt,3962.67,2362.87
+43,Nova T-Shirt,Fashion,T-Shirt,2070.19,1362.62
+44,Vertex T-Shirt,Fashion,T-Shirt,639.3,532.47
+45,Nexa Jeans,Fashion,Jeans,836.03,506.82
+46,Prime Jeans,Fashion,Jeans,2354.45,1686.78
+47,Vertex Jeans,Fashion,Jeans,2158.61,1204.24
+48,Nova Jeans,Fashion,Jeans,1898.79,1097.35
+49,Pulse Jacket,Fashion,Jacket,1600.87,1066.72
+50,Vertex Jacket,Fashion,Jacket,606.56,497.59
+51,Aura Jacket,Fashion,Jacket,4545.0,3833.49
+52,Nova Jacket,Fashion,Jacket,2945.41,1769.82
+53,Vertex Shoes,Fashion,Shoes,1645.43,1148.41
+54,Zen Shoes,Fashion,Shoes,503.68,342.71
+55,Nexa Shoes,Fashion,Shoes,2221.29,1544.39
+56,Prime Shoes,Fashion,Shoes,569.22,356.05
+57,Aura Bag,Fashion,Bag,3050.27,1856.59
+58,Pulse Bag,Fashion,Bag,713.47,457.62
+59,Vertex Bag,Fashion,Bag,4754.35,3088.74
+60,Nexa Bag,Fashion,Bag,3176.92,2513.65
+61,Pulse Perfume,Beauty,Perfume,4114.28,3323.73
+62,Aura Perfume,Beauty,Perfume,4876.28,2881.09
+63,Prime Perfume,Beauty,Perfume,1739.19,1450.8
+64,Vertex Perfume,Beauty,Perfume,1164.09,749.97
+65,Vertex Cream,Beauty,Cream,4845.26,3801.55
+66,Prime Cream,Beauty,Cream,1764.25,1118.69
+67,Nexa Cream,Beauty,Cream,3972.16,2619.66
+68,Aura Cream,Beauty,Cream,4673.92,2850.81
+69,Prime Shampoo,Beauty,Shampoo,4774.42,3287.12
+70,Pulse Shampoo,Beauty,Shampoo,3600.16,2453.64
+71,Orbit Shampoo,Beauty,Shampoo,1598.39,1211.34
+72,Nova Shampoo,Beauty,Shampoo,4131.03,3258.13
+73,Vertex Lipstick,Beauty,Lipstick,3240.01,2017.25
+74,Pulse Lipstick,Beauty,Lipstick,3361.58,2570.17
+75,Aura Lipstick,Beauty,Lipstick,3987.57,2281.65
+76,Zen Lipstick,Beauty,Lipstick,4955.36,3437.88
+77,Vertex Face Wash,Beauty,Face Wash,2809.5,2211.68
+78,Orbit Face Wash,Beauty,Face Wash,1925.74,1576.51
+79,Nexa Face Wash,Beauty,Face Wash,2777.15,2059.13
+80,Aura Face Wash,Beauty,Face Wash,607.91,474.59
+81,Pulse Yoga Mat,Sports,Yoga Mat,412.62,348.7
+82,Zen Yoga Mat,Sports,Yoga Mat,3451.87,2312.36
+83,Nexa Yoga Mat,Sports,Yoga Mat,3812.88,3201.73
+84,Orbit Yoga Mat,Sports,Yoga Mat,2266.19,1253.58
+85,Orbit Dumbbell,Sports,Dumbbell,2878.37,2176.91
+86,Zen Dumbbell,Sports,Dumbbell,1260.95,835.05
+87,Nexa Dumbbell,Sports,Dumbbell,2422.7,1826.39
+88,Pulse Dumbbell,Sports,Dumbbell,3514.1,2091.67
+89,Nova Football,Sports,Football,2196.68,1841.96
+90,Aura Football,Sports,Football,757.13,630.09
+91,Nexa Football,Sports,Football,880.04,566.36
+92,Prime Football,Sports,Football,2385.6,1460.13
+93,Nexa Cricket Bat,Sports,Cricket Bat,2303.2,1748.2
+94,Prime Cricket Bat,Sports,Cricket Bat,1730.77,1107.83
+95,Aura Cricket Bat,Sports,Cricket Bat,4088.89,2390.06
+96,Nova Cricket Bat,Sports,Cricket Bat,4276.06,3183.06
+97,Prime Cycle Helmet,Sports,Cycle Helmet,1037.38,620.4
+98,Pulse Cycle Helmet,Sports,Cycle Helmet,2887.27,2418.2
+99,Zen Cycle Helmet,Sports,Cycle Helmet,1312.91,881.64
+100,Orbit Cycle Helmet,Sports,Cycle Helmet,1085.37,805.5
+101,Vertex Rice,Groceries,Rice,4438.87,3040.06
+102,Aura Rice,Groceries,Rice,2261.85,1247.04
+103,Nova Rice,Groceries,Rice,1231.02,779.86
+104,Orbit Rice,Groceries,Rice,3578.05,2822.37
+105,Zen Tea,Groceries,Tea,1955.81,1191.33
+106,Vertex Tea,Groceries,Tea,746.98,561.14
+107,Orbit Tea,Groceries,Tea,2549.52,2141.02
+108,Nexa Tea,Groceries,Tea,1704.34,1136.1
+109,Vertex Coffee,Groceries,Coffee,1889.53,1298.78
+110,Orbit Coffee,Groceries,Coffee,1028.13,773.23
+111,Nova Coffee,Groceries,Coffee,4042.94,3337.87
+112,Prime Coffee,Groceries,Coffee,3032.81,2279.56
+113,Pulse Olive Oil,Groceries,Olive Oil,761.35,504.01
+114,Nova Olive Oil,Groceries,Olive Oil,878.52,585.57
+115,Zen Olive Oil,Groceries,Olive Oil,3062.84,2212.72
+116,Prime Olive Oil,Groceries,Olive Oil,2230.59,1552.49
+117,Prime Dry Fruits,Groceries,Dry Fruits,1586.41,961.57
+118,Orbit Dry Fruits,Groceries,Dry Fruits,4241.53,3121.02
+119,Zen Dry Fruits,Groceries,Dry Fruits,4354.51,3638.42
+120,Aura Dry Fruits,Groceries,Dry Fruits,2526.12,1537.24
